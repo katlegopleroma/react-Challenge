@@ -1,0 +1,58 @@
+
+
+ul {
+  list-style-type: none;
+margin-left: 700px;
+  overflow: hidden;
+  
+}
+
+li {
+  float: left;
+    text-align: right;
+}
+
+li a {
+  display: inline-block;
+  color: black;
+  text-align: right;
+  padding: 35px 74px;
+  text-decoration: none;
+    text-align: right;
+    font-weight: 300;
+    
+}
+p {
+    text-align: center;
+    margin: 25px 25px;
+    font-size: 27px;
+
+}
+
+ .form { 
+      margin: 27px 520px;
+     border: 2px;
+
+
+}
+#text {
+    
+    text-align: center;
+    margin: 29px 25px;
+    font-size: 27px;
+
+}
+
+body {
+    padding: 80px;   
+}
+
+.play-button {
+        
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 50%;
+    position: relative;
+}
+
+
+
